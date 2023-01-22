@@ -8,5 +8,5 @@
 - 📫 How to reach me: kelincidev@gmail.com
 - 😄 Pronouns: izal
 - ⚡ Fun fact: i like good joke 😄
-- also if you want see my art 3DModel come checkout here: https://sketchfab.com/rzlahd
+- ‼️ also if you want see my art 3DModel come checkout here: https://sketchfab.com/rzlahd
 
