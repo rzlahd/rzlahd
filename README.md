@@ -14,3 +14,4 @@ Social Media:
 
 - linkedin: [linkedin](https://www.linkedin.com/in/rzlahd/)
 - Youtube: [youtube](https://www.youtube.com/@spidercg)
+- Twitter: [Twitter](https://twitter.com/rzlahd)
