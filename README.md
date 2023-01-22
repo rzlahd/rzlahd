@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**rzlahd/rzlahd**
-
 - 🔭 I’m currently working on Software development
 - 🌱 I’m currently learning C++ programing language
 - 👯 I’m looking to collaborate on C++ programing language
