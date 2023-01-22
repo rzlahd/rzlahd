@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**rzlahd/rzlahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rzlahd/rzlahd**
 
 - 🔭 I’m currently working on Software development
 - 🌱 I’m currently learning C++ programing language
