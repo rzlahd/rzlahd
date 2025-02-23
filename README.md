@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on C++ programing language
 - 🤔 I’m looking for help with C++ programing language
 - 💬 Ask me about: Contribute To my Projects
-- 📫 How to reach me: kelincidev@gmail.com
+- 📫 How to reach me: [get email here](https://github.com/rzlahd/sigs-key/blob/main/keys.gpg kelincidev@gmail.com)
 - 😄 Pronouns: izal
 - ⚡ Fun fact: i like good joke 😄
 - ‼️ also if you want see my art 3DModel come checkout here: [Sketchfab](https://sketchfab.com/rzlahd)
