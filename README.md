@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cryptocurrency
+- 🔭 I’m currently working on cryptocurrency and 3D Model
 - 🌱 I’m currently learning C++ programing language
 - 👯 I’m looking to collaborate on C++ programing language
 - 🤔 I’m looking for help with C++ programing language
