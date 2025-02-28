@@ -8,7 +8,7 @@
 - 📫 How to reach me: [get in touch](https://github.com/rzlahd/sigs-key/blob/main/keys.gpg)
 - 😄 Pronouns: izal
 - ⚡ Fun fact: i like good joke 😄
-- ‼️ also if you want see my art 3DModel come checkout here: [Sketchfab](https://sketchfab.com/rzlahd)
+- ‼️ see my art 3D Model come check out here: [Sketchfab](https://sketchfab.com/rzlahd)
 
 Social Media:
 
