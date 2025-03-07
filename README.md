@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++ programing language
 - 👯 I’m looking to collaborate on C++ programing language
 - 🤔 I’m curious about computer science
-- 💬 Ask me about: Contribute To my Projects
+- 💬 Ask me about: Contribute
 - 📫 How to reach me: [get in touch](https://github.com/rzlahd/sigs-key/blob/main/keys.gpg)
 - 😄 Pronouns: izal
 - ⚡ Fun fact: i like good joke 😄
