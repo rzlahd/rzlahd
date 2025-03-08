@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cryptographic and 3D Model
-- 🌱 I’m currently learning C++ programing language
-- 👯 I’m looking to collaborate on C++ programing language
+- 🌱 I’m currently build Software with C++ programing language
+- 👯 looking to collaborate on C++ programing language
 - 🤔 I’m curious about computer science
 - 💬 Ask me about: Contribute
 - 📫 How to reach me: [get in touch](https://github.com/rzlahd/sigs-key/blob/main/keys.gpg)
