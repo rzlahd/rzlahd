@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cryptographic and 3D Model
-- 🌱 I’m currently build Software with C++ programing language
+- 🌱 currently build Software with C++ programing language
 - 👯 looking to collaborate on C++ programing language
 - 🤔 I’m curious about computer science
 - 💬 Ask me about: Contribute
